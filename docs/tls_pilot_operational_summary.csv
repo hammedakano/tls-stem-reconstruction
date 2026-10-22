@@ -1,0 +1,8 @@
+TreeID,CandidatePoints,AcceptedSlices,FailedSlices,StrictSlices,CoverageReviewSlices,PathUsesCoverageSlices,TracedMinHAG_m,TracedMaxHAG_m,PilotDiameterAt1p3_cm,LowerStop,UpperStop,DerivedCircumference_cm,TestedSlices,RetainedFraction_tested,StrictAfterCoverageSlices
+1,7872,74,3,72,2,30,0.201,15.192,25.2720985097505,reached_search_limit,stopped_after_2_failed_slices,79.39457195724675,77,0.961038961038961,28
+2,8494,66,4,65,1,34,0.201,13.786,21.0947265826677,reached_search_limit,stopped_after_2_failed_slices,66.2709820848427,70,0.9428571428571428,33
+3,10813,63,5,61,2,9,0.201,13.399,27.0404113291047,reached_search_limit,stopped_after_2_failed_slices,84.94988582740173,68,0.9264705882352942,7
+4,17606,90,2,89,1,4,0.201,18.183,31.6958118341531,reached_search_limit,stopped_after_2_failed_slices,99.57524550005733,92,0.9782608695652174,3
+5,13804,81,3,81,0,0,0.201,16.599,44.401296823607,reached_search_limit,stopped_after_2_failed_slices,139.4906700880755,84,0.9642857142857143,0
+6,9617,76,4,71,5,26,0.201,15.769,29.6023409921998,reached_search_limit,stopped_after_2_failed_slices,92.99841843768496,80,0.95,21
+7,17077,90,2,89,1,8,0.201,18.189,36.4225163154792,reached_search_limit,stopped_after_2_failed_slices,114.4246130315463,92,0.9782608695652174,7

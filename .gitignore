@@ -1,0 +1,14 @@
+data/
+outputs/
+*.las
+*.laz
+*.e57
+*.ply
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+python/figures/
+python/inputs/
+.DS_Store
+__pycache__/

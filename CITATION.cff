@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "tls-stem-reconstruction: TLS stem segmentation, slice-wise RANSAC circle fitting and DBH profiles"
+authors:
+  - family-names: Akano
+    given-names: Hammed
+    affiliation: Deakin University
+license: MIT
+date-released: 2026-10-23

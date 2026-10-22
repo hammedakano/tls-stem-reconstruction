@@ -1,0 +1,5 @@
+pkgs <- c("lidR", "RCSF", "data.table", "remotes")
+new <- setdiff(pkgs, rownames(installed.packages()))
+if (length(new)) install.packages(new)
+if (!requireNamespace("CspStandSegmentation", quietly = TRUE))
+  remotes::install_github("JulFrey/CspStandSegmentation")
